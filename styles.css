@@ -1,0 +1,91 @@
+body {
+	font-family: Tahoma;
+	font-size: 18px;
+	line-height: 1.5;
+	background: url(pattern.png)
+	margin: 0 auto;
+}
+.card {
+	width: 400px ;
+	margin: 30px;
+ background-color: #fff;
+ box-shadow: 0 5px 10px #ccc;
+ border-radius: 10px;
+ padding: 20px;
+}   
+img {
+	width: 200px ;
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+	border-radius: 50%;
+}
+.title {
+	font-size: 20px;
+	text-align: center;
+	color: #000;
+	
+}
+.me {
+	font-size: 14px;
+	color: #595c644d;
+	padding-left: 0px;
+}
+.forme {
+	font-size: 14px;	
+	padding-left: 14px;
+}
+.card2 {
+	width: 500px;
+	height:100px;
+	border-radius: 10px;
+	box-shadow: 0 5px 10px #ccc;
+	margin: 30px auto;	
+	 background-color: #fff;
+}
+.title2 {
+	text-align: center;
+	padding: 20px;
+	color: #000;
+	filter:
+	drop-shadow(3px 3px 10px);
+}
+.card3 {
+	width: 400px ;
+	margin: 30px auto;
+ background-color: #fff;
+ box-shadow: 0 5px 10px #ccc;
+ border-radius: 10px;
+ padding: 20px;
+ 
+}   
+img {
+	width: 200px ;
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+	border-radius: 50%;
+}
+.title3 {
+	font-size: 20px;
+	text-align: center;
+	color: #000;
+	
+}
+.me2 {
+	font-size: 14px;
+	color: #595c644d;
+	padding-left: 0px;
+}
+.forme2 {
+	font-size: 14px;	
+	padding-left: 14px;
+}
+.cartoshka {
+	flex-direction: row;
+	display: flex;
+	justify-content: center;
+}
+
+
+  
