@@ -2,7 +2,7 @@ body {
 	font-family: Tahoma;
 	font-size: 18px;
 	line-height: 1.5;
-	background: url(pattern.png)
+	background: url(pattern.png);
 	margin: 0 auto;
 }
 .card {
@@ -35,21 +35,7 @@ img {
 	font-size: 14px;	
 	padding-left: 14px;
 }
-.card2 {
-	width: 500px;
-	height:100px;
-	border-radius: 10px;
-	box-shadow: 0 5px 10px #ccc;
-	margin: 30px auto;	
-	 background-color: #fff;
-}
-.title2 {
-	text-align: center;
-	padding: 20px;
-	color: #000;
-	filter:
-	drop-shadow(3px 3px 10px);
-}
+
 .card3 {
 	width: 400px ;
 	margin: 30px auto;
@@ -86,6 +72,68 @@ img {
 	display: flex;
 	justify-content: center;
 }
+.card4 {
+	width: 400px ;
+	margin: 30px auto;b
+ background-color: #fff;
+ box-shadow: 0 5px 10px #ccc;
+ border-radius: 10px;
+ padding: 20px;
+}
+.cards {
+	width:400px;
+	margin: 0 auto;
+	box-shadow: 0 5px 10px #ccc;
+	border-radius: 10px;
+		margin: 30px auto;b
+ background-color: #fff;
+ padding: 20px;
+}
+.mes {
+	color: #595c644d;
+	font-size:  14px;
+	padding-left: 0px;
+}
+.formes {
+	font-size: 14px;
+	padding-left: 14px;
+}
+.titles {
+	text-align: center;
+	font-size: 20px;
+	color: #000;
+}
+header {
+	display: flex;
+	justify-content: center;
+}
+.Logo, .Top_menu {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 0;
+}
+.Top_menu li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 20px;
+}
+.Top_menu a {
+	font-family: Comic Sans MS;
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+	vertical-align: middle;
+}
+.Logo h2 {
+	font-family: Comic Sans MS;
+	font-size: 25px;
+	color: black;
+	vertical-align: middle;
+}
+.Top_menu a:hover{
+	color: #26c4FF;
+}
+
 
 
   
